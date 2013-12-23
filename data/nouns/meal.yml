@@ -1,0 +1,95 @@
+# Еда
+- {p: das, w: Essen, t: Еда}
+- {p: das, w: Trinken, t: Питье}
+- {p: das, w: Obst, t: Фрукты}
+- {p: das, w: Gemuese, t: Овощи}
+- {p: der, w: Kuchen, t: Пирог}
+- {p: das, w: Broetchen, t: Булочка}
+- {p: die, w: Marmelade, t: Варенье}
+- {p: die, w: Cola, t: Кока-Колла }
+- {p: der, w: Hamburger, t: Гамбургер}
+- {p: das, w: Ketchup, t: Кетчуп}
+- {p: das, w: Eis, t: Мороженное}
+- {p: das, w: Pomm frites, t: Картофель фри}
+- {p: die, w: Pizza, t: Пицца}
+- {p: der, w: Saft, t: Сок}
+- {p: der, w: Orangensaft, t: Апельсиновый сок}
+- {p: die, w: Schale von Salat, t: Тарелочка с салатом}
+- {p: das, w: Mineral Wasser, t: Минеральная вода}
+- {p: die, w: Zitrone, t: Лимон}
+- {p: die, w: Tomate, t: Помидор}
+- {p: die, w: Tasse, t: Чашка}
+- {p: der, w: Tee, t: Чай}
+- {p: die, w: Suppe, t: Суп}
+- {p: das, w: Schinken, t: Ветчина}
+- {p: der, w: Kaffe, t: Кофе}
+- {p: das, w: Stuck, t: Кусок}
+- {p: das, w: Stileswasser, t: Вода без газа}
+- {p: die, w: Kartoffeln, t: Картофель}
+- {p: der, w: Salat, t: Салат}
+- {p: der, w: Kaese, t: Сыр}
+- {p: die, w: Wurst, t: Колбаса}
+- {p: der, w: Reis, t: Рис}
+- {p: die, w: Milch, t: Молоко}
+- {p: das, w: Wasser, t: Вода}
+- {p: der, w: Wein, t: Вино}
+- {p: die, w: Butter, t: Масло}
+- {p: das, w: Fleisch, t: Мясо}
+- {p: der, w: Fisch, t: Рыба}
+- {p: das, w: Glas, t: Стакан}
+- {p: das, w: Bier, t: Пиво}
+- {p: das, w: Brot, t: Хлеб}
+- {p: die, w: Gabel, t: Вилка}
+- {p: der, w: Loeffel, t: Ложка}
+- {p: der, w: Teller, t: Тарелка}
+- {p: das, w: Messer, t: Нож}
+- {p: das, w: Ei, t: Яйцо}
+- {p: das, w: Braten, t: Жаренье}
+- {p: das, w: Haehnchen, t: Цыпленок}
+- {p: das, w: Kotelett, t: Отбивная}
+- {p: das, w: Steak, t: Стейк}
+- {p: die, w: Flasche, t: Бутылка}
+- {p: das, w: Hauptgericht, t: Главное блюдо}
+- {p: die, w: Bratwurst, t: Жареная колбаска}
+- {p: die, w: Speisekarte, t: Меню}
+- {p: der, w: Gasthof, t: Ресторан}
+- {p: die, w: Kalter Gerichte, t: Холодная закуска}
+- {p: das, w: Schweinefleisch, t: Свинина}
+- {p: die, w: Gurke, t: Огурец}
+- {p: die, w: Bohnen, t: Бобы}
+- {p: die, w: Zwiebel, t: Лук}
+- {p: der, w: Rotkohl, t: Красная капуста}
+- {p: das, w: Rindfleisch, t: Говядина}
+- {p: der, w: Nachtisch, t: Десерт}
+- {p: die, w: Sahne, t: Сливки}
+- {p: das, w: Getraenk, t: Напиток}
+- {p: das, w: Lebensmittel, t: Продукт питания}
+- {p: die, w: Ware, t: Товар}
+- {p: der, w: Salz, t: Соль}
+- {p: der, w: Zucker, t: Сахар}
+- {p: die, w: Kanne, t: Чайник}
+- {p: das, w: Apfel, t: Яблоко}
+- {p: die, w: Vorspeise, t: Закуска}
+- {p: die, w: Nachspeise, t: Десерт(алтернативное)}
+- {p: der, w: Lebensmittelfachmarkt, t: Супермаркет продуктовый}
+- {p: der, w: Sekt, t: Шампанское}
+- {p: das, w: Vollkornbrot, t: Цельнозерновой хлеб}
+- {p: die, w: Erdbeer, t: Клубника}
+- {p: die, w: Kirsche, t: Вишня}
+- {p: die, w: Himbeer, t: Малина}
+- {p: die, w: Brombeer, t: Ежевика}
+- {p: das, w: Oel, t: Масло(не сливочное)}
+- {p: die, w: Gewuerze, t: Приправа}
+- {p: der, w: Pfeffer, t: Перец}
+- {p: das, w: Mehl, t: Мука}
+- {p: der, w: Aufschnitt, t: Нарезка мясная}
+- {p: die, w: Nuss, t: Орех}
+- {p: das, w: Waschmittel, t: Моющее средство(стирка)}
+- {p: das, w: Spuelmittel, t: Моющее средство(посуда)}
+- {p: die, w: Kiste, t: Ящик}
+- {p: die, w: Dose, t: Жестяная банка, коробка}
+- {p: die, w: Baeckerei, t: Булочная}
+
+
+
+

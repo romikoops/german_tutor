@@ -1,0 +1,8 @@
+Глаголы: ./data/verbs.yml
+Наречия: ./data/adverbs.yml
+Прилагательные: ./data/adjectives.yml
+Предлоги: ./data/prepositions.yml
+Союзы: ./data/conjuctives.yml
+Другие: ./data/others.yml
+"Существительные -> Еда": ./data/nouns/meal.yml
+"Существительные -> Общее": ./data/nouns/common.yml
