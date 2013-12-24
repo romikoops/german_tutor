@@ -3,3 +3,20 @@
 - {p: das, w: Schreibwarengeschaeft, t: Магазин канцтоваров}
 - {p: die, w: Kosmetikabteilung, t: Отдел косметики}
 - {p: das, w: Kaufhaus, t: Универмаг}
+- {p: die, w: Zeitschrift, t: Журнал}
+- {p: das, w: Briefpapier, t: Бумага для писем}
+- {p: der, w: Brief, t: Письмо}
+- {p: der, w: Bleishtift, t: Простой карандаш}
+- {p: die, w: Zahncreme, t: Зубная паста}
+- {p: die, w: Seife, t: Мыло}
+- {p: das, w: Parfuem, t: Духи}
+- {p: die, w: Streichhoelzer, t: Спички}
+- {p: das, w: Laden, t: Магазин, лавка}
+- {p: der, w: Kassenzettel, t: Кассовый чек}
+- {p: die, w: Rechnung, t: Счет}
+- {p: die, w: Qгittung, t: Квитанция}
+- {p: die, w: EC-Karte, t: Проездной}
+- {p: die, w: Scheсkkarte, t: Чековая карта}
+- {p: die, w: Mehrwertsteuer, t: НДС}
+- {p: der, w: Rabatt, t: Скидка}
+- {p: die, w: Ermaessigung, t: Скидка}

@@ -34,8 +34,9 @@ sleep_time_by_type = sleep_time(parse_exercise_type)
 
 loop do
   category_data.shuffle.each do |word_data|
-    print "\r#{word_data["t"]}                                                     "
     print "\r"
+    print " " * 100
+    print "\r#{word_data["t"]}"
     sleep 2
     print "\r#{word_data["t"]} - #{word_data["p"]} #{word_data["w"]}"
     sleep sleep_time_by_type
