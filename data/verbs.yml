@@ -88,3 +88,11 @@
 - {w: bieten, t: предлагать}
 - {w: glauben, t: думать}
 - {w: erkennen, t: узнавать}
+- {w: bestellen, t: заказывать}
+- {w: entscheiden, t: решать(вопрос, проблему)}
+- {w: korrigieren, t: исправлять, корретировать}
+- {w: spuelen, t: полоскать, мыть}
+- {w: stimmen, t: голосовать}
+- {w: waschen, t: мыть, стирать}
+- {w: wechseln, t: менять, обмениваться}
+
