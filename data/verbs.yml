@@ -1,98 +1,98 @@
 # Глаголы
-- {w: grillen, t: грилить}
-- {w: schneiden, t: резать}
-- {w: braten, t: жарить}
-- {w: backen, t: печь}
-- {w: erzaehlen, t: рассказывать}
-- {w: sitzen, t: сидеть}
-- {w: geben, t: давать}
-- {w: nehmen, t: брать}
-- {w: bleiben, t: оставаться}
-- {w: funktionieren, t: работать(для электроники)}
-- {w: kosten, t: стоить}
-- {w: kochen, t: варить}
-- {w: brauchen, t: нуждаться}
-- {w: suchen, t: искать}
-- {w: verstehen, t: понимать}
-- {w: kennen, t: знать(людей или наверняка)}
-- {w: wissen, t: знать(условие или вопрос)}
-- {w: moegen, t: нравиться}
-- {w: besuchen, t: посещать}
-- {w: werden, t: становиться}
-- {w: warten, t: ждать}
-- {w: studieren, t: изучать в университете}
-- {w: schreiben, t: "сочинять, писать"}
-- {w: reisen, t: путешествовать}
-- {w: meinen, t: иметь ввиду}
-- {w: fragen, t: спрашивать}
-- {w: buchstabieren, t: произосить по буквам}
-- {w: sprechen, t: говорить}
-- {w: sein, t: быть}
-- {w: haben, t: иметь}
-- {w: notieren, t: записывать}
-- {w: hoeren, t: слушать}
-- {w: zaelen, t: считать(числа)}
-- {w: ergaenzen, t: дополнять}
-- {w: heissen, t: называться}
-- {w: koennen, t: мочь}
-- {w: schliessen, t: закрывать}
-- {w: oeffnen, t: открывать}
-- {w: konjugieren, t: спрягать}
-- {w: wiederholen, t: повторять}
-- {w: fahren, t: ехать}
-- {w: halten, t: держать}
-- {w: heben, t: поднимать}
-- {w: sagen, t: сказать}
-- {w: liegen, t: "располагаться, находиться"}
-- {w: leben, t: жить}
-- {w: stehen, t: стоять}
-- {w: wollen, t: хотеть(want)}
-- {w: moechten, t: хотеть(would like)}
-- {w: zeigen, t: показывать}
-- {w: sehen, t: видеть}
-- {w: machen, t: работать(1)}
-- {w: treiben, t: работать(2)}
-- {w: tun, t: работать(3)}
-- {w: wochnen, t: жить}
-- {w: lernen, t: учиться}
-- {w: gehen, t: двигаться, идти}
-- {w: spielen, t: играть}
-- {w: lesen, t: читать}
-- {w: laufen, t: бежать}
-- {w: arbeiten, t: работать}
-- {w: legen, t: ложить}
-- {w: verkaufen, t: продавать}
-- {w: kaufen, t: покупать}
-- {w: kommen, t: прибывать}
-- {w: duerfen, t: "мочь(may)"}
-- {w: muessen, t: "быть должным(must)"}
-- {w: sollen, t: "быть должным(have to)"}
-- {w: essen, t: есть}
-- {w: trinken, t: пить}
+- {w: grillen, t: грилить, p: w}
+- {w: schneiden, t: резать, p: s, p3: schneidet}
+- {w: braten, t: жарить, p: s, p3: braet}
+- {w: backen, t: печь, p: s, p3: baeckt}
+- {w: erzaehlen, t: рассказывать, p: w}
+- {w: sitzen, t: сидеть, p: s, p3: sitzt}
+- {w: geben, t: давать, p: s, p3: gibt}
+- {w: nehmen, t: брать, p: s, p3: nimmt}
+- {w: bleiben, t: оставаться, p: s, p3: bleibt}
+- {w: funktionieren, t: работать(для электроники), p: w}
+- {w: kosten, t: стоить, p: w}
+- {w: kochen, t: варить, p: w}
+- {w: brauchen, t: нуждаться, p: w}
+- {w: suchen, t: искать, p: w}
+- {w: verstehen, t: понимать, p: w}
+- {w: kennen, t: знать(людей или наверняка), p: s, p3: kennt}
+- {w: wissen, t: знать(условие или вопрос), p: s, p3: weiss}
+- {w: moegen, t: нравиться, p: s, p3: mag}
+- {w: besuchen, t: посещать, p: w}
+- {w: werden, t: становиться, p: s, p3: wird}
+- {w: warten, t: ждать, p: w}
+- {w: studieren, t: изучать в университете, p: w}
+- {w: schreiben, t: "сочинять, писать", p: s, p3: schreibt}
+- {w: reisen, t: путешествовать, p: w}
+- {w: meinen, t: иметь ввиду, p: w}
+- {w: fragen, t: спрашивать, p: w}
+- {w: buchstabieren, t: произосить по буквам, p: w}
+- {w: sprechen, t: говорить, p: s, p3: spricht}
+- {w: sein, t: быть, p: s, p3: ist}
+- {w: haben, t: иметь, p: s, p3: hat}
+- {w: notieren, t: записывать, p: w}
+- {w: hoeren, t: слушать, p: w}
+- {w: zaelen, t: считать(числа), p: w}
+- {w: ergaenzen, t: дополнять, p: w}
+- {w: heissen, t: называться, p: s, p3: heisst}
+- {w: koennen, t: мочь, p: s, p3: kann}
+- {w: schliessen, t: закрывать, p: w}
+- {w: oeffnen, t: открывать, p: w}
+- {w: konjugieren, t: спрягать, p: w}
+- {w: wiederholen, t: повторять, p: w}
+- {w: fahren, t: ехать, p: s, p3: faehrt}
+- {w: halten, t: держать, p: s, p3: haelt}
+- {w: heben, t: поднимать, p: s, p3: hebt}
+- {w: sagen, t: сказать, p: w}
+- {w: liegen, t: "располагаться, находиться", p: s, p3: liegt}
+- {w: leben, t: жить, p: w}
+- {w: stehen, t: стоять, p: s, p3: stecht}
+- {w: wollen, t: хотеть(want), p: s, p3: will}
+- {w: moechten, t: хотеть(would like), p: w}
+- {w: zeigen, t: показывать, p: w}
+- {w: sehen, t: видеть, p: s, p3: sieht}
+- {w: machen, t: работать(1), p: w}
+- {w: treiben, t: работать(2), p: w} #?
+- {w: tun, t: работать(3), p: s, p3: tut}
+- {w: wochnen, t: жить, p: w}
+- {w: lernen, t: учиться, p: w}
+- {w: gehen, t: двигаться, идти, p: s, p3: geht}
+- {w: spielen, t: играть, p: w}
+- {w: lesen, t: читать, p: s, p3: liest}
+- {w: laufen, t: бежать, p: s, p3: laeuft}
+- {w: arbeiten, t: работать, p: w}
+- {w: legen, t: ложить, p: w}
+- {w: verkaufen, t: продавать, p: w}
+- {w: kaufen, t: покупать, p: w}
+- {w: kommen, t: прибывать, p: s, p3: kommt}
+- {w: duerfen, t: "мочь(may)", p: s, p3: darf}
+- {w: muessen, t: "быть должным(must)", p: s, p3: muss}
+- {w: sollen, t: "быть должным(have to)", p: s, p3: soll}
+- {w: essen, t: есть, p: s, p3: isst}
+- {w: trinken, t: пить, p: s, p3: trinkt}
 - {w: bekommen, t: "получать, приобретать"}
-- {w: antworten, t: отвечать}
-- {w: bezahlen, t: платить}
-- {w: schmecken, t: пробовать на вкус}
-- {w: rechnen, t: вычислять}
-- {w: ueberpruefen, t: проверять}
-- {w: wecken, t: будить}
-- {w: schicken, t: "посылать, отправлять"}
-- {w: besorgen, t: "заботиться, присматривать; раздобыть(достать)"}
-- {w: bringen, t: приносить}
-- {w: verbinden, t: "связывать, соединять"}
-- {w: lassen, t: позволять}
-- {w: ueben, t: тренироваться}
-- {w: tragen, t: "переносить, нести"}
-- {w: einkaufen, t: закупаться}
-- {w: beachten, t: обращать внимание}
-- {w: bieten, t: предлагать}
-- {w: glauben, t: думать}
-- {w: erkennen, t: "узнавать, распознавать"}
-- {w: bestellen, t: заказывать}
-- {w: entscheiden, t: "решать(вопрос, проблему)"}
-- {w: korrigieren, t: "исправлять, корретировать"}
-- {w: spuelen, t: "полоскать, мыть"}
-- {w: stimmen, t: голосовать}
-- {w: waschen, t: "мыть, стирать"}
-- {w: wechseln, t: "менять, обмениваться"}
+- {w: antworten, t: отвечать, p: w}
+- {w: bezahlen, t: платить, p: w}
+- {w: schmecken, t: пробовать на вкус, p: w}
+- {w: rechnen, t: вычислять, p: w}
+- {w: ueberpruefen, t: проверять, p: w}
+- {w: wecken, t: будить, p: w}
+- {w: schicken, t: "посылать, отправлять", p: w}
+- {w: besorgen, t: "заботиться, присматривать; раздобыть(достать)", p: w}
+- {w: bringen, t: приносить, p: s, p3: bringt}
+- {w: verbinden, t: "связывать, соединять", p: w}
+- {w: lassen, t: позволять, p: s, p3: laesst}
+- {w: ueben, t: тренироваться, p: w}
+- {w: tragen, t: "переносить, нести", p: s, p3: traegt}
+- {w: einkaufen, t: закупаться, p: w}
+- {w: beachten, t: обращать внимание, p: w}
+- {w: bieten, t: предлагать, p: s, p3: bietet}
+- {w: glauben, t: думать, p: w}
+- {w: erkennen, t: "узнавать, распознавать", p: w} # ?
+- {w: bestellen, t: заказывать, p: w}
+- {w: entscheiden, t: "решать(вопрос, проблему)", p: w}
+- {w: korrigieren, t: "исправлять, корретировать", p: w}
+- {w: spuelen, t: "полоскать, мыть", p: w}
+- {w: stimmen, t: голосовать, p: w}
+- {w: waschen, t: "мыть, стирать", p: s, p3: waescht}
+- {w: wechseln, t: "менять, обмениваться", p: w}
 

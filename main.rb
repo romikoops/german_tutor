@@ -40,6 +40,23 @@ def print_message(msg)
   print msg
 end
 
+def gen_answer(word_data, category_name)
+  answer = if category_name == "Глаголы"
+             if word_data["p"] == 's'
+               "#{word_data["w"]} [Сильный - 3л: #{word_data["p3"]}]"
+             else
+               "#{word_data["w"]} [Слабый]"
+             end
+           else
+             if word_data.key?("p")
+               "#{word_data["p"]} #{word_data["w"]}"
+             else
+               word_data["w"]
+             end
+           end
+  "#{word_data["t"]} - #{answer}"
+end
+
 def wait_for_user_answer(timeout)
   Timeout.timeout(timeout) do
     return gets
@@ -68,7 +85,7 @@ loop do
     sleep 0.5
     print_message "#{word_data["t"]}"
     sleep 2
-    print_message "#{word_data["t"]} - #{word_data["p"]} #{word_data["w"]}"
+    print_message gen_answer(word_data, category_name)
     if exercise_type == :exam
       sleep sleep_time_by_type
     else
