@@ -51,7 +51,7 @@
 - {w: zeigen, t: показывать, p: w}
 - {w: sehen, t: видеть, p: s, p3: sieht}
 - {w: machen, t: работать(1), p: w}
-- {w: treiben, t: работать(2), p: w} #?
+- {w: treiben, t: работать(2), p: s, p3: treibt}
 - {w: tun, t: работать(3), p: s, p3: tut}
 - {w: wochnen, t: жить, p: w}
 - {w: lernen, t: учиться, p: w}
@@ -87,7 +87,7 @@
 - {w: beachten, t: обращать внимание, p: w}
 - {w: bieten, t: предлагать, p: s, p3: bietet}
 - {w: glauben, t: думать, p: w}
-- {w: erkennen, t: "узнавать, распознавать", p: w} # ?
+- {w: erkennen, t: "узнавать, распознавать", p: s, p3: erkennt}
 - {w: bestellen, t: заказывать, p: w}
 - {w: entscheiden, t: "решать(вопрос, проблему)", p: w}
 - {w: korrigieren, t: "исправлять, корретировать", p: w}

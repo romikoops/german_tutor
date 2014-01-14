@@ -87,7 +87,7 @@
 - {p: das, w: Waschmittel, t: Моющее средство(стирка)}
 - {p: das, w: Spuelmittel, t: Моющее средство(посуда)}
 - {p: die, w: Kiste, t: Ящик}
-- {p: die, w: Dose, t: Жестяная банка, коробка}
+- {p: die, w: Dose, t: "Жестяная банка, коробка"}
 - {p: die, w: Baeckerei, t: Булочная}
 
 
