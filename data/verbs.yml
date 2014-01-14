@@ -13,7 +13,7 @@
 - {w: kochen, t: варить, p: w}
 - {w: brauchen, t: нуждаться, p: w}
 - {w: suchen, t: искать, p: w}
-- {w: verstehen, t: понимать, p: w}
+- {w: verstehen, t: понимать, p: s, p3: stecht}
 - {w: kennen, t: знать(людей или наверняка), p: s, p3: kennt}
 - {w: wissen, t: знать(условие или вопрос), p: s, p3: weiss}
 - {w: moegen, t: нравиться, p: s, p3: mag}
@@ -95,4 +95,17 @@
 - {w: stimmen, t: голосовать, p: w}
 - {w: waschen, t: "мыть, стирать", p: s, p3: waescht}
 - {w: wechseln, t: "менять, обмениваться", p: w}
+- {w: faulenzen, t: лентяйничать, p: w} #?
+- {w: schwimmen, t: плавать, p: w} #?
+- {w: Musik machen, t: играть на музыкальном инструменте, p: w}
+- {w: tanzen, t: танцевать, p: w} #?
+- {w: schlafen, t: спать, p: s, p3: schläft}
+- {w: tauschen, t: "менять, обменивать", p: w} #?
+- {w: frühstücken, t: завтракать, p: w} #?
+- {w: aufstehen, t: вставать, p: s, p3: stecht}
+- {w: fernsehen, t: смотреть телевизор, p: s, p3: sieht}
+- {w: bedienen, t: обслуживать, p: w} #?
+- {w: kontrollieren, t: "контролировать, проверять", p: w} #?
+- {w: massieren, t: массажировать, p: w} #?
+- {w: rauchen, t: "чадить, курить", p: w} #
 
