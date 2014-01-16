@@ -13,7 +13,7 @@
 - {w: kochen, t: варить, p: w}
 - {w: brauchen, t: нуждаться, p: w}
 - {w: suchen, t: искать, p: w}
-- {w: verstehen, t: понимать, p: s, p3: stecht}
+- {w: verstehen, t: понимать, p: s, p3: steht}
 - {w: kennen, t: знать(людей или наверняка), p: s, p3: kennt}
 - {w: wissen, t: знать(условие или вопрос), p: s, p3: weiss}
 - {w: moegen, t: нравиться, p: s, p3: mag}
@@ -45,7 +45,7 @@
 - {w: sagen, t: сказать, p: w}
 - {w: liegen, t: "располагаться, находиться", p: s, p3: liegt}
 - {w: leben, t: жить, p: w}
-- {w: stehen, t: стоять, p: s, p3: stecht}
+- {w: stehen, t: стоять, p: s, p3: steht}
 - {w: wollen, t: хотеть(want), p: s, p3: will}
 - {w: moechten, t: хотеть(would like), p: w}
 - {w: zeigen, t: показывать, p: w}
@@ -102,7 +102,7 @@
 - {w: schlafen, t: спать, p: s, p3: schläft}
 - {w: tauschen, t: "менять, обменивать", p: w} #?
 - {w: frühstücken, t: завтракать, p: w} #?
-- {w: aufstehen, t: вставать, p: s, p3: stecht}
+- {w: aufstehen, t: вставать, p: s, p3: steht}
 - {w: fernsehen, t: смотреть телевизор, p: s, p3: sieht}
 - {w: bedienen, t: обслуживать, p: w} #?
 - {w: kontrollieren, t: "контролировать, проверять", p: w} #?
