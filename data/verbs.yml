@@ -108,4 +108,11 @@
 - {w: kontrollieren, t: "контролировать, проверять", p: w} #?
 - {w: massieren, t: массажировать, p: w} #?
 - {w: rauchen, t: "чадить, курить", p: w} #
+- {w: eintreten, t: "входить, вступать; начинаться, наступать", p: s, p3: tritt}
+- {w: ausgeben, t: "расходовать, тратить", p: s, p3: gibt}
+- {w: mitbringen, t: приносить с собой, p: s, p3: bringt}
+- {w: duschen, t: принимать душ, p: w} #?
+- {w: stoeren, t: "мешать, беспокоить", p: w} #?
+- {w: fotografieren, t: фотографировать, p: w}
+- {w: surfen[sɜːrfən], t: заниматься сёрфингом, p: w}
 

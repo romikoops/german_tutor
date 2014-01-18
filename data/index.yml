@@ -2,7 +2,10 @@
 Наречия: ./data/adverbs.yml
 Прилагательные: ./data/adjectives.yml
 Предлоги: ./data/prepositions.yml
+Местоимения: ./data/pronouns.yml
 Союзы: ./data/conjuctives.yml
 Другие: ./data/others.yml
 "Существительные -> Еда": ./data/nouns/meal.yml
 "Существительные -> Общее": ./data/nouns/common.yml
+"Существительные -> Отдых": ./data/nouns/relax.yml
+"Существительные -> Профессии": ./data/nouns/professions.yml

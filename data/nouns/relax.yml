@@ -1,0 +1,8 @@
+# Отдых
+- {p: das, w: Schwimmbad, t: бассейн}
+- {p: das, w: Deck, t: палуба}
+- {p: das, w: Krankenhaus, t: больница}
+- {p: das, w: Tischtennis, t: настольный тенис}
+- {p: der, w: Spaziergang, t: прогулка}
+- {p: das, w: Sonnenbad, t: солнечная ванна}
+- {p: das, w: Dusche, t: Душ, p: '-n'}
