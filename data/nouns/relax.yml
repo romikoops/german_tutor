@@ -5,4 +5,4 @@
 - {p: das, w: Tischtennis, t: настольный тенис}
 - {p: der, w: Spaziergang, t: прогулка}
 - {p: das, w: Sonnenbad, t: солнечная ванна}
-- {p: das, w: Dusche, t: Душ, p: '-n'}
+- {p: das, w: Dusche, t: Душ, pl: '-n'}

@@ -3,3 +3,7 @@
 - {p: der, w: Baecker, t: пекарь}
 - {p: der, w: Masseur, t: массажист}
 - {p: der, w: "Friseur[-'zøːr]", t: парикмахер}
+- {p: der, w: Arzt, t: врач}
+- {p: die, w: Aerztin, t: врачиха}
+- {p: der, w: Kellner, t: официант}
+- {p: der, w: Arbeit, t: рабочий}

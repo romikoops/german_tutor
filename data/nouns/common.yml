@@ -20,3 +20,7 @@
 - {p: die, w: Mehrwertsteuer, t: НДС}
 - {p: der, w: Rabatt, t: Скидка}
 - {p: die, w: Ermaessigung, t: Скидка}
+- {p: die, w: Sache, t: Вещь, pl: '-n'}
+- {p: der, w: Eintritt, t: вход, pl: '-e'}
+- {p: der, w: Raum, t: "комната, помещение", pl: "Räume"}
+- {p: der, w: Satz, t: "предложение(грамматическое)", pl: "Saete"}
