@@ -69,7 +69,7 @@
 - {w: sollen, t: "быть должным(have to)", p: s, p3: soll}
 - {w: essen, t: есть, p: s, p3: isst}
 - {w: trinken, t: пить, p: s, p3: trinkt}
-- {w: bekommen, t: "получать, приобретать"}
+- {w: bekommen, t: "получать, приобретать", p: s, p3: kommt}
 - {w: antworten, t: отвечать, p: w}
 - {w: bezahlen, t: платить, p: w}
 - {w: schmecken, t: пробовать на вкус, p: w}
@@ -117,4 +117,39 @@
 - {w: "surfen[sɜːrfən]", t: заниматься сёрфингом, p: w}
 - {w: stoeren, t: беспокоить, p: w}
 - {w: zeichnen, t: "рисовать, чертить, подписываться", p: w}
+- {w: abholen, t: забрать, p: w}
+- {w: abheben, t: снять, p: s, p3: hebt}
+- {w: anfangen, t: начинать, p: s, p3: fängt}
+- {w: anrufen, t: вызывать, p: w}
+- {w: aufhören, t: останавливать, p: w}
+- {w: ausgehen, t: выходить, p: s, p3: geht}
+- {w: aussehen, t: выглядеть, p: s, p3: sieht}
+- {w: beibringen, t: обучать, p: s, p3: bringt}
+- {w: beitreten, t: присоединяться, p: s, p3: tritt }
+- {w: einschlafen, t: засыпать, p: s, p3: schläft}
+- {w: fortgehen, t: уходить, p: s, p3: geht}
+- {w: fortsetzen, t: продолжать, p: w}
+- {w: herkommen, t: исходить от, p: s, p3: kommt}
+- {w: herstellen, t: производить, p: w}
+- {w: hinfahren, t: "съездить, поехать туда", p: s, p3: faehrt}
+- {w: hinstellen, t: поставить туда, p: w}
+- {w: losfahren, t: отъезжать, p: s, p3: faehrt}
+- {w: loswerden, t: "избавляться, освобождаться", p: s, p3: wird}
+- {w: mitnehmen, t: "брать с собой", p: s, p3: nimmt}
+- {w: denken, t: "думать, мыслить", p: s, p3: denkt}
+- {w: nachdenken, t: "размышлять, задумываться", p: s, p3: denkt}
+- {w: nachfragen, t: "расспрашивать", p: w}
+- {w: stattfinden, t: "иметь место, происходить", p: s, p3: findet}
+- {w: stattgeben, t: "удовлетворять, исполнять", p: s, p3: gibt}
+- {w: vorhaben, t: "намереваться, планировать", p: s, p3: habt}
+- {w: vorstellen, t: "представлять(кого либо)", p: w}
+- {w: vorbeikommen, t: проходить мимо, p: s, p3: kommt}
+- {w: weggehen, t: уходить, p: s, p3: geht}
+- {w: wegnehmen, t: "отнимать, отбирать", p: s, p3: nimmt}
+- {w: zuhören, t: прислушиваться, p: w}
+- {w: zugeben, t: давать в придачу, p: s, p3: gibt}
+- {w: zurückgeben, t: отдавать, p: s, p3: gibt}
+- {w: zurückkommen, t: возвращаться, p: s, p3: kommt}
+- {w: zusammenfassen, t: объединять, p: s, p3: kommt}
+- {w: zusammenkommen, t: "Встречаться, собираться вместе", p: s, p3: kommt}
 
