@@ -5,4 +5,12 @@
 - {p: das, w: Tischtennis, t: настольный тенис}
 - {p: der, w: Spaziergang, t: прогулка}
 - {p: das, w: Sonnenbad, t: солнечная ванна}
-- {p: das, w: Dusche, t: Душ, pl: '-n'}
+- {p: das, w: Dusche, t: душ, pl: '-n'}
+- {p: die, w: Freizeit, t: свободное время}
+- {p: das, w: Hobby, t: хобби}
+- {p: die, w: Musik, t: музыка}
+- {p: das, w: Instrument, t: инструмент, pl: '-e'}
+- {p: die, w: Gitarre, t: гитара}
+- {p: das, w: Klavier, t: "фортепьяно, пианино"}
+- {p: das, w: Volkslied, t: народная песня}
+- {p: die, w: Diskothek, t: дискотека}

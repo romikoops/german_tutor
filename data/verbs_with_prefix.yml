@@ -1,21 +1,21 @@
 # Приставки употребляемые с глаголом
-- {w: ab, t: Отделяемая, e: "abholen, abheben"}
-- {w: an, t: Отделяемая, e: "anfangen, anrufen"}
-- {w: auf, t: Отделяемая, e: "aufhören, aufstehen"}
-- {w: aus, t: Отделяемая, e: "ausgehen, aussehen"}
-- {w: bei, t: Отделяемая, e: "beibringen, beitreten"}
-- {w: ein, t: Отделяемая, e: "einkaufen, einschlafen"}
-- {w: fern, t: Отделяемая, e: "fernsehen"}
-- {w: fort, t: Отделяемая, e: "fortgehen, fortsetzen"}
-- {w: her, t: Отделяемая, e: "herkommen, herstellen"}
-- {w: hin, t: Отделяемая, e: "hinfahren, hinstellen"}
-- {w: los, t: Отделяемая, e: "losfahren, loswerden"}
-- {w: mit, t: Отделяемая, e: "mitbringen, mitnehmen"}
-- {w: nach, t: Отделяемая, e: "nachdenken, nachfragen"}
-- {w: statt, t: Отделяемая, e: "stattfinden, stattgeben"}
-- {w: vor, t: Отделяемая, e: "vorhaben, vorstellen"}
-- {w: vorbei, t: Отделяемая, e: "vorbeikommen"}
-- {w: weg, t: Отделяемая, e: "weggehen, wegnehmen"}
-- {w: zu, t: Отделяемая, e: "zuhören, zugeben"}
-- {w: zurück, t: Отделяемая, e: "zurückgeben, zurückkommen"}
-- {w: zusammen, t: Отделяемая, e: "zusammenfassen, zusammenkommen"}
+- {w: ab, t: "удаление/лишение/отделение/отмена/окончание действия", d: yes, e: "abholen, abheben"}
+- {w: an, t: "соприкосновение/соединение/прирост/начало действия", d: yes, e: "anfangen, anrufen"}
+- {w: auf, t: "движение вверх/открывать/разъединять/переход новое состояние", d: yes, e: "aufhören, aufstehen"}
+- {w: aus, t: "движение изнутри наружу/расширение/завершение", d: yes, e: "ausgehen, aussehen"}
+- {w: bei, t: "приближение/присоединение/согласие", d: yes, e: "beibringen, beitreten"}
+- {w: ein, t: "движение внутрь/приобритение/переход в другое состояние", d: yes, e: "einkaufen, einschlafen"}
+- {w: fern, t: "?", d: yes, e: "fernsehen"}
+- {w: fort, t: "Движение прочь, вперед/продолжение действия", d: yes, e: "fortgehen, fortsetzen"}
+- {w: her, t: "направленность действия/происхождение", d: yes,, e: "herkommen, herstellen"}
+- {w: hin, t: "направленность от говорящего/движение вниз/нанесение/исчезновение", d: yes, e: "hinfahren, hinstellen"}
+- {w: los, t: "отделение/освобождение/начало действия", d: yes, e: "losfahren, loswerden"}
+- {w: mit, t: "совместность действия/сопровождение", d: yes, e: "mitbringen, mitnehmen"}
+- {w: nach, t: "отставание/повторение", d: yes, e: "nachdenken, nachfragen"}
+- {w: statt, t: "?", d: yes, e: "stattfinden, stattgeben"}
+- {w: vor, t: "нахождение впереди/предупреждение/напоказ/предпочтение", d: yes, e: "vorhaben, vorstellen"}
+- {w: vorbei, t: "?", d: yes, e: "vorbeikommen"}
+- {w: weg, t: "удаление/направление в сторону/лишение/израсходование", d: yes, e: "weggehen, wegnehmen"}
+- {w: zu, t: "приближение/присоединение/завершение процесса", d: yes, e: "zuhören, zugeben"}
+- {w: zurück, t: "обратное движение/отставание/ответное действие", d: yes, e: "zurückgeben, zurückkommen"}
+- {w: zusammen, t: "сближение, соединение", d: yes, e: "zusammenfassen, zusammenkommen"}

@@ -151,5 +151,8 @@
 - {w: zurückgeben, t: отдавать, p: s, p3: gibt}
 - {w: zurückkommen, t: возвращаться, p: s, p3: kommt}
 - {w: zusammenfassen, t: объединять, p: s, p3: kommt}
-- {w: zusammenkommen, t: "Встречаться, собираться вместе", p: s, p3: kommt}
-
+- {w: zusammenkommen, t: "встречаться, собираться вместе", p: s, p3: kommt}
+- {w: verbringen, t: "проводить(время)", p: s, p3: bringt}
+- {w: sammeln, t: собирать, p: w} #?
+- {w: singen, t: петь, p: w} #?
+- {w: gefallen, t: "нравиться, быть по вкусу", p: s, p3: gefällt}
