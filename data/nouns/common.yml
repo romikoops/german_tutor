@@ -24,3 +24,10 @@
 - {p: der, w: Eintritt, t: вход, pl: '-e'}
 - {p: der, w: Raum, t: "комната, помещение", pl: "Räume"}
 - {p: der, w: Satz, t: "предложение(грамматическое)", pl: "Saete"}
+- {p: das, w: Schild, t: "табличка, вывеска"}
+- {p: der, w: Dialog, t: диалог, pl: "-e"}
+- {p: die, w: Seitung, t: газета, pl: "-en"}
+- {p: die, w: Minute, t: минута, pl: "-n"}
+- {p: das, w: Viertel, t: четверть}
+- {p: das, w: Kleid, t: платье}
+- {p: das, w: Verband, t: повязка}

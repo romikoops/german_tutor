@@ -3,3 +3,7 @@
 - {p: x, w: von, t: от}
 - {p: x, w: fuer, t: для}
 - {p: x, w: mit, t: с}
+- {p: x, w: nach, t: "в (город); после(время)"}
+- {p: x, w: vor, t: перед}
+- {p: x, w: halb, t: пол}
+- {p: x, w: um, t: в (время) }
