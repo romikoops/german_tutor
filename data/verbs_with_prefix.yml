@@ -7,7 +7,7 @@
 - {w: ein, t: "движение внутрь/приобритение/переход в другое состояние", d: yes, e: "einkaufen, einschlafen"}
 - {w: fern, t: "?", d: yes, e: "fernsehen"}
 - {w: fort, t: "Движение прочь, вперед/продолжение действия", d: yes, e: "fortgehen, fortsetzen"}
-- {w: her, t: "направленность действия/происхождение", d: yes,, e: "herkommen, herstellen"}
+- {w: her, t: "направленность действия/происхождение", d: yes, e: "herkommen, herstellen"}
 - {w: hin, t: "направленность от говорящего/движение вниз/нанесение/исчезновение", d: yes, e: "hinfahren, hinstellen"}
 - {w: los, t: "отделение/освобождение/начало действия", d: yes, e: "losfahren, loswerden"}
 - {w: mit, t: "совместность действия/сопровождение", d: yes, e: "mitbringen, mitnehmen"}

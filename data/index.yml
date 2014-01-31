@@ -1,10 +1,12 @@
 Глаголы: ./data/verbs.yml
+Глаголы с приставками: ./data/verbs_with_prefix.yml
 Наречия: ./data/adverbs.yml
 Прилагательные: ./data/adjectives.yml
 Предлоги: ./data/prepositions.yml
 Местоимения: ./data/pronouns.yml
 Союзы: ./data/conjuctives.yml
 Другие: ./data/others.yml
+Фразы: ./data/phrases.yml
 "Существительные -> Еда": ./data/nouns/meal.yml
 "Существительные -> Общее": ./data/nouns/common.yml
 "Существительные -> Отдых": ./data/nouns/relax.yml
