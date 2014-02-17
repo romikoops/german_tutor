@@ -31,3 +31,10 @@
 - {p: das, w: Viertel, t: четверть}
 - {p: das, w: Kleid, t: платье}
 - {p: das, w: Verband, t: повязка}
+- {p: das, w: Geschirr, t: посуда, pl: "-e"}
+- {p: der, w: Lüste, t: желание, pl: Lüste}
+- {p: der, w: Unterricht, t: урок}
+- {p: die, w: Tuer, t: дверь, pl: "-en"}
+- {p: der, w: Terminkalender, t: каленадрь еженедельник}
+- {p: die, w: Ansichtskarte, t: видовая открытка}
+- {p: der, w: Mensch, t: человек, t: "-en"}

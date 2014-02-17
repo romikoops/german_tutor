@@ -22,6 +22,7 @@
 - {w: warten, t: ждать, p: w}
 - {w: studieren, t: изучать в университете, p: w}
 - {w: schreiben, t: "сочинять, писать", p: s, p3: schreibt}
+- {w: beschreiben, t: описывать, p: s, p3: schreibt}
 - {w: reisen, t: путешествовать, p: w}
 - {w: meinen, t: иметь ввиду, p: w}
 - {w: fragen, t: спрашивать, p: w}
@@ -115,11 +116,11 @@
 - {w: stoeren, t: "мешать, беспокоить", p: w} #?
 - {w: fotografieren, t: фотографировать, p: w}
 - {w: "surfen[sɜːrfən]", t: заниматься сёрфингом, p: w}
-- {w: stoeren, t: беспокоить, p: w}
 - {w: zeichnen, t: "рисовать, чертить, подписываться", p: w}
 - {w: holen, t: нести, p: w}
 - {w: abholen, t: забрать, p: w}
 - {w: abheben, t: отделять, p: s, p3: hebt}
+- {w: fangen, t: ловить, p: s, p3: fängt}
 - {w: anfangen, t: начинать, p: s, p3: fängt}
 - {w: anrufen, t: "вызывать, звонить", p: w}
 - {w: aufhören, t: останавливать, p: w}
@@ -160,5 +161,10 @@
 - {w: traeumen, t: видеть во сне, p: w}
 - {w: aufraeumen, t: убирать, p: w}
 - {w: aufschreiben, t: записывать, p: s, p3: schreibt}
-- {w: treffen, t: встретиться, p: s, p3: trifft}
+- {w: sich treffen, t: встретиться, p: s, p3: trifft}
 - {w: messen, t: измерять, p: s, p3: mist}
+- {w: gucken, t: "глядеть, смотреть на что то", p: w }
+- {w: vergessen, t: забывать, p: s, p3: vergisst}
+- {w: einladen, t: приглашать, p: s, p3: einlädt}
+- {w: lossein, t: "происходить, случаться"}
+- {w: vorlesen, t: читать в слух, p: s, p3: liest}

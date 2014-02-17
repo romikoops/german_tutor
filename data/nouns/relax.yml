@@ -14,3 +14,6 @@
 - {p: das, w: Klavier, t: "фортепьяно, пианино"}
 - {p: das, w: Volkslied, t: народная песня}
 - {p: die, w: Diskothek, t: дискотека}
+- {p: die, w: Ruhe, t: тишина}
+- {p: der, w: Landausflug, t: "поездка/прогулка", pl: flüge}
+- {p: das, w: Meer, t: "море, океан", pl: -e}

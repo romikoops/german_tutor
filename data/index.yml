@@ -6,6 +6,8 @@
 Местоимения: ./data/pronouns.yml
 Союзы: ./data/conjuctives.yml
 Другие: ./data/others.yml
+Вопросительные слова: ./data/question_words.yml
+Время: ./data/time.yml
 Фразы: ./data/phrases.yml
 "Существительные -> Еда": ./data/nouns/meal.yml
 "Существительные -> Общее": ./data/nouns/common.yml

@@ -1,0 +1,24 @@
+#Вопросительные слова
+- {w: wann, t: когда?}
+- {w: wie lange, t: как долго?}
+- {w: wie spaet, t: как поздно?}
+- {w: wie oft, t: как часто?}
+- {w: wie viel, t: как много?}
+- {w: wie, t: как?}
+- {w: welche, t: какой?}
+- {w: wer, t: кто?}
+- {w: was, t: что?}
+- {w: wo, t: где?}
+- {w: womit, t: чем?}
+- {w: warum, t: почему?}
+- {w: wozu, t: зачем?}
+- {w: wieso, t: каким образом?}
+- {w: wessen, t: чей?}
+- {w: wovon, t: о чем?}
+- {w: was fuer ein, t: "что за, какой?"}
+- {w: wem, t: кому?}
+- {w: wen, t: кого?}
+- {w: wohin, t: куда?}
+- {w: woher, t: откуда?}
+- {w: worum, t: о чем?}
+- {w: wofuer, t: для чего?}
