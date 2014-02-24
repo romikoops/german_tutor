@@ -8,8 +8,10 @@
 Другие: ./data/others.yml
 Вопросительные слова: ./data/question_words.yml
 Время: ./data/time.yml
+Сокращения: ./abbreviation.yml
 Фразы: ./data/phrases.yml
 "Существительные -> Еда": ./data/nouns/meal.yml
 "Существительные -> Общее": ./data/nouns/common.yml
 "Существительные -> Отдых": ./data/nouns/relax.yml
 "Существительные -> Профессии": ./data/nouns/professions.yml
+"Существительные -> Жилье": ./data/nouns/accommodation.yml

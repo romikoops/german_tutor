@@ -1,2 +1,6 @@
 # Местоимения
 {w: jemand, t: "кто нибудь, некто, кто-то"}
+{w: selber, t: сам}
+{w: selbst, t: "сам, сама, само, сами"}
+{w: "dieses(das), dieser(der), diese(die)", t: "это, этот, эта"}
+{w: welche, t: некоторые}

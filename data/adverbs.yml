@@ -15,7 +15,7 @@
 - {w: jetzt, t: сейчас}
 - {w: lieber, t: лучше(когда есть выбор)}
 - {w: besonders, t: особенно}
-- {w: zuruck, t: назад}
+- {w: zurueck, t: назад}
 - {w: noch, t: еще}
 - {w: nur, t: только лишь}
 - {w: mehr, t: "больше, более"}
@@ -24,7 +24,7 @@
 - {w: genug, t: "довольно, достаточно"}
 - {w: getrennt, t: раздельно}
 - {w: zuerst, t: сначало}
-- {w: ganz, t: очень}
+- {w: ganz, t: "очень, целый"}
 - {w: nah, t: близко}
 - {w: cirka (ca), t: приблизительно}
 - {w: guenstig, t: благоприятно}
@@ -36,7 +36,11 @@
 - {w: frueh, t: рано}
 - {w: selbst, t: самостоятельно}
 - {w: nichts, t: ничего}
-- {w: shade, t: "жаль, досадно"}
+- {w: schade, t: "жаль, досадно"}
 - {w: genau, t: точно}
 - {w: herrlich, t: великолепно}
 - {w: nett, t: мило}
+- {w: wenigstens, t: по крайней мере}
+- {w: ziemlich, t: достаточно}
+- {w: sogar, t: даже}
+- {w: sonst, t: кроме того}

@@ -54,7 +54,7 @@
 - {w: machen, t: работать(1), p: w}
 - {w: treiben, t: работать(2), p: s, p3: treibt}
 - {w: tun, t: работать(3), p: s, p3: tut}
-- {w: wochnen, t: жить, p: w}
+- {w: wochnen, t: "жить(в каком то жилище)", p: w}
 - {w: lernen, t: учиться, p: w}
 - {w: gehen, t: двигаться, идти, p: s, p3: geht}
 - {w: spielen, t: играть, p: w}
@@ -158,7 +158,7 @@
 - {w: sammeln, t: собирать, p: w} #?
 - {w: singen, t: петь, p: w} #?
 - {w: gefallen, t: "нравиться, быть по вкусу", p: s, p3: gefällt}
-- {w: traeumen, t: видеть во сне, p: w}
+- {w: traeumen, t: "мечтать, видеть во сне", p: w}
 - {w: aufraeumen, t: убирать, p: w}
 - {w: aufschreiben, t: записывать, p: s, p3: schreibt}
 - {w: sich treffen, t: встретиться, p: s, p3: trifft}
@@ -168,3 +168,15 @@
 - {w: einladen, t: приглашать, p: s, p3: einlädt}
 - {w: lossein, t: "происходить, случаться"}
 - {w: vorlesen, t: читать в слух, p: s, p3: liest}
+- {w: feiern, t: праздновать, p: w}
+- {w: vorschlagen, t: предлагать, p: schlägt}
+- {w: umziehen, t: переезжать, p: s, p3: zeucht}
+- {w: sich befinden, t: находиться, p: s, p3: findet}
+- {w: ueberweisen, t: переводить деньги, p: w} #???
+- {w: weisen, t: указывать, p: w} #???
+- {w: sich anmelden, t: "записаться, зарегистрироваться", p: w}
+- {w: verlieren, t: терять, p: s, p3: verliert}
+- {w: beantragen, t: заказывать новый, p: w}
+- {w: reichen, t: "быть достаточным, хватать", p: w}
+- {w: schauen, t: "смотреть, глядеть", p: w}
+- {w: bedeuten, t: "значить(не одушевленное)", p: w}

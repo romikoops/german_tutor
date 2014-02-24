@@ -37,4 +37,23 @@
 - {p: die, w: Tuer, t: дверь, pl: "-en"}
 - {p: der, w: Terminkalender, t: каленадрь еженедельник}
 - {p: die, w: Ansichtskarte, t: видовая открытка}
-- {p: der, w: Mensch, t: человек, t: "-en"}
+- {p: der, w: Mensch, t: человек, pl: "-en"}
+- {p: das, w: Fahrrad(Rad), t: велосипед, pl: "Fahrräder"}
+- {p: der, w: Quatsch, t: ерунда, pl: '-es'}
+- {p: die, w: Dummheit, t: глупость, pl: '-en'}
+- {p: der, w: Fehler, t: ошибка, pl: '='}
+- {p: der, w: Wortschatz, t: словарный запас}
+- {p: die, w: Sprache, t: язык, pl: '-n'}
+- {p: die, w: Sprachschule, t: языковая школа}
+- {p: das, w: Konsulat, t: консульство, pl: '-e'}
+- {p: der, w: Kindergarten, t: садик, pl: Kindergärten}
+- {p: das, w: Restaurant, t: ресторан, pl: '-s'}
+- {p: die, w: Kneipe, t: пивная, pl: '-n'}
+- {p: die, w: Apotheke, t: аптека, pl: '-n'}
+- {p: die, w: Reinigung, t: химчистка, pl: '-en'}
+- {p: das, w: Enkel, t: внук, pl: '-n'}
+- {p: das, w: Paeckchen, t: "бандероль, пакетик", pl: '='}
+- {p: das, w: Haar, t: волос, pl: '-e'}
+- {p: das, w: Ticket, t: билет, ps: '-s'}
+- {p: der, w: Pass, t: парспорт, pl: 'Pässe'}
+- {p: das, w: Hemd, t: рубашка, pl: '-en'}

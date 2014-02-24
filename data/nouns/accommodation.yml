@@ -1,0 +1,28 @@
+#жилище
+- {p: das, w: Bad, t: ванная, pl: Bäder}
+- {p: der, w: Hobbyraum, t: любительская мастерская}
+- {p: der, w: Keller, t: подвал, pl: '='}
+- {p: das, w: Wohnzimmer, t: гостинная}
+- {p: der, w: Flur, t: коридор, pl: '-e'}
+- {p: das, w: Fenster, t: окно, pl: '='}
+- {p: das, w: Treppenhaus, t: лестничная клетка, pl: Treppenhäuser}
+- {p: das, w: Arbeitszimmer, t: рабочий кабинет}
+- {p: das, w: Schlafzimmer, t: спальня}
+- {p: das, w: Kinderzimmer, t: детсткая комната}
+- {p: die, w: Terrasse, t: терасса, pl: "-n"}
+- {p: die, w: Kueche, t: кухня, pl: '-n'}
+- {p: das, w: Bett, t: кровать, pl: '-en'}
+- {p: das, w: Kleid, t: платье, pl: "-er"}
+- {p: der, w: Kleiderschrank, t: платяной шкаф, pl: Schränke}
+- {p: die, w: Kommode, t: комод}
+- {p: die, w: Couch, t: кушетка, pl: 'es'}
+- {p: der, w: Sessel, t: кресло, pl: '='}
+- {p: die, w: Garderobe, t: "раздевалка, гардероб", pl: '-n'}
+- {p: der, w: Spiegel, t: зеркало, pl: '='}
+- {p: der, w: Esstisch, t: обеденный стол, pl: "-e"}
+- {p: der, w: Vorhang, t: "занавеса, штора", pl: vorhänge}
+- {p: das, w: Bücherregal, t: книжная полка}
+- {p: der, w: Teppich, t: ковер, pl: '-e'}
+- {p: der, w: Schreibtisch, t: письменный стол}
+- {p: der, w: Staubsauger, t: пылесос}
+- {p: die, w: Ecke, t: угол, pl: '-n'}
