@@ -152,7 +152,7 @@
 - {w: zugeben, t: давать в придачу, p: s, p3: gibt}
 - {w: zurückgeben, t: отдавать, p: s, p3: gibt}
 - {w: zurückkommen, t: возвращаться, p: s, p3: kommt}
-- {w: zusammenfassen, t: "объединять, подводить итог", p: s, p3: kommt}
+- {w: zusammenfassen, t: "объединять, подводить итог", p: w}
 - {w: zusammenkommen, t: "встречаться, собираться вместе", p: s, p3: kommt}
 - {w: verbringen, t: "проводить(время)", p: s, p3: bringt}
 - {w: sammeln, t: собирать, p: w} #?
@@ -180,3 +180,4 @@
 - {w: reichen, t: "быть достаточным, хватать", p: w}
 - {w: schauen, t: "смотреть, глядеть", p: w}
 - {w: bedeuten, t: "значить(не одушевленное)", p: w}
+- {w: verbieten, t: запрещать, p: s, p3: verbietet}

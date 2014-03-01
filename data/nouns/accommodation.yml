@@ -26,3 +26,18 @@
 - {p: der, w: Schreibtisch, t: письменный стол}
 - {p: der, w: Staubsauger, t: пылесос}
 - {p: die, w: Ecke, t: угол, pl: '-n'}
+- {p: die, w: Toilette, t: туалет}
+- {p: das, w: WC, t: WC}
+- {p: das, w: Haus, t: дом, pl: Häuser}
+- {p: das, w: Quadratmeter, t: квадратный метр, pl: '='}
+- {p: die, w: Nebenkosten, t: побочные расходы}
+- {p: die, w: Immobilien, t: недвижимость}
+- {p: der, w: Garten, t: "сад, огород", pl: Gärten}
+- {p: die, w: Miete, t: арендная плата, pl: '-n'}
+- {p: der, w: Makler, t: брокер, pl: '='}
+- {p: das, w: Dach, t: крыша, pl: Dächer}
+- {p: der, w: Neubau, t: новостройка}
+- {p: die, w: Fußbodenheizung, t: пол с подогревом}
+- {p: der, w: Aufzug, t: лифт, pl: "..züge"}
+- {p: der, w: Stock, t: этаж, pl: Stockwerke}
+- {p: das, w: Erdgeschoss, t: нижний этаж дома}

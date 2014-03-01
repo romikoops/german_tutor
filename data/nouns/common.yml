@@ -57,3 +57,5 @@
 - {p: das, w: Ticket, t: билет, ps: '-s'}
 - {p: der, w: Pass, t: парспорт, pl: 'Pässe'}
 - {p: das, w: Hemd, t: рубашка, pl: '-en'}
+- {p: das, w: Beispiel, t: пример, pl: '-en'}
+- {p: die, w: Reihe, t: "ряд, серия", pl: "-n"}
