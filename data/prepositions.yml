@@ -10,3 +10,6 @@
 - {p: x, w: da, t: "тогда то(время), там(место)"}
 - {p: x, w: neben, t: возле}
 - {p: x, w: ohne, t: без}
+- {p: x, w: über, t: "свыше, над", i: '+ Akusative'}
+- {p: x, w: unter, t: ниже}
+- {p: x, w: außerhalb, t: вне}

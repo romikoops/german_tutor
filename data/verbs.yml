@@ -181,3 +181,9 @@
 - {w: schauen, t: "смотреть, глядеть", p: w}
 - {w: bedeuten, t: "значить(не одушевленное)", p: w}
 - {w: verbieten, t: запрещать, p: s, p3: verbietet}
+- {w: helfen, t: помогать, p: s, p3: hilft}
+- {w: betragen, t: составлять, p: s, p3: betraegt}
+- {w: anmachen, t: включать(приборы), p: w}
+- {w: ausmachen, t: выключать(приборы), p: w}
+- {w: aufmachen, t: открывать, p: w}
+- {w: zumachen, t: закрывать, p: w}

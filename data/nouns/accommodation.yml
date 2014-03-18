@@ -41,3 +41,5 @@
 - {p: der, w: Aufzug, t: лифт, pl: "..züge"}
 - {p: der, w: Stock, t: этаж, pl: Stockwerke}
 - {p: das, w: Erdgeschoss, t: нижний этаж дома}
+- {p: das, w: Einkommen, t: доход, pl: '='}
+- {p: das, w: Sofa, t: диван}

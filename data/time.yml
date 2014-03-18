@@ -4,3 +4,4 @@
 - {w: Nachmittag, t: послеобед}
 - {w: von ... bis ..., t: "От... до... "}
 - {w: gegen X Uhr, t: около X часов}
+- {p: die, w: Stunde, t: час, pl: '-en'}

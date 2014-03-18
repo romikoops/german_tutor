@@ -59,3 +59,8 @@
 - {p: das, w: Hemd, t: рубашка, pl: '-en'}
 - {p: das, w: Beispiel, t: пример, pl: '-en'}
 - {p: die, w: Reihe, t: "ряд, серия", pl: "-n"}
+- {p: der, w: Verkehr, t: транспорт}
+- {p: die, w: Verbindung, t: соединение, pl: '-en'}
+- {p: das, w: Glück, t: счастье}
+- {p: der, w: Traum, t: мечта, pl: Träume}
+- {p: das, w: Licht, t: свет}
