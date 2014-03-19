@@ -187,3 +187,11 @@
 - {w: ausmachen, t: выключать(приборы), p: w}
 - {w: aufmachen, t: открывать, p: w}
 - {w: zumachen, t: закрывать, p: w}
+- {w: kuessen sich, t: целоваться, p: w}
+- {w: fuettern, t: кормить, p: w}
+- {w: aufhaengen, t: вывешивать, p: w}
+- {w: krach machen, t: шуметь, p: w}
+- {w: verbieten, t: запрещать, p: w}
+- {w: feiern, t: праздновать, p: w}
+- {w: dauern, t: "длиться, продолжаться", p: w}
+- {w: klingeln, t: звонить, p: w}

@@ -1,0 +1,5 @@
+# Животный мир
+- {p: der, w: Vogel, t: птица, pl: Voegeln}
+- {p: der, w: Hund, t: собака, pl: "-e"}
+- {p: die, w: Taube, t: голубь, pl: "-n"}
+- {p: das, w: Haustier, t: домашнее животное, pl: "-e"}

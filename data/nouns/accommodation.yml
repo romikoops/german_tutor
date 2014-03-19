@@ -43,3 +43,13 @@
 - {p: das, w: Erdgeschoss, t: нижний этаж дома}
 - {p: das, w: Einkommen, t: доход, pl: '='}
 - {p: das, w: Sofa, t: диван}
+- {p: das, w: Fensterbrett, t: подоконник}
+- {p: die, w: Wand, t: стена, pl: 'Wände'}
+- {p: der, w: Krach, t: "шум, грохот", pl: "-e"}
+- {p: der, w: Hof, t: двор, pl: Höfe}
+- {p: der, w: Nachbar, t: сосед, pl: "-n"}
+- {p: der: w: Vermieter, t: арендодатель, pl: "="}
+- {p: der, w: Mietvertrag, t: договор аренды}
+- {p: die, w: Erlaubnis, t: разрешение}
+- {p: der, w: Schornstein, t: дымовая труба}
+- {p: der, w: Platz, t: "место, площадка", pl: Plätze}

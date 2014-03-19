@@ -4,6 +4,7 @@
 - {w: selten, t: редко}
 - {w: manchmal, t: иногда}
 - {w: immer, t: всегда}
+- {w: immer noch, t: все еще}
 - {w: oft, t: часто}
 - {w: lange, t: долго}
 - {w: gern, t: "охотно, с удовольствием"}
@@ -48,4 +49,10 @@
 - {w: wenig, t: мало}
 - {w: trotzdem, t: несмотря на это}
 - {w: fast, t: почти}
+- {w: sonst, t: иначе}
+- {w: vorher, t: "раньше, до этого"}
+- {w: oben, t: вверху}
+- {w: links, t: слева}
+- {w: rechts, t: направо}
+- {w: endlich, t: наконец}
 

@@ -64,3 +64,9 @@
 - {p: das, w: Glück, t: счастье}
 - {p: der, w: Traum, t: мечта, pl: Träume}
 - {p: das, w: Licht, t: свет}
+- {p: die, w: Werbung, t: реклама, pl: "-en"}
+- {p: der, w: Streit, t: спор, pl: "-e"}
+- {p: das, w: Gericht, t: суд, pl: "-e"}
+- {p: der, w: Dreck, t: грязь}
+- {p: der, w: Augenblick, t: миг}
+- {p: die, w: Umfrage, t: опрос}
