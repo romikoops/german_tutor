@@ -49,10 +49,10 @@
 - {w: wenig, t: мало}
 - {w: trotzdem, t: несмотря на это}
 - {w: fast, t: почти}
-- {w: sonst, t: иначе}
+- {w: sonst, t: "иначе, впрочем"}
 - {w: vorher, t: "раньше, до этого"}
 - {w: oben, t: вверху}
 - {w: links, t: слева}
 - {w: rechts, t: направо}
 - {w: endlich, t: наконец}
-
+- {w: schlimm, t: плохой}

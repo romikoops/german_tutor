@@ -15,3 +15,4 @@
 "Существительные -> Отдых": ./data/nouns/relax.yml
 "Существительные -> Профессии": ./data/nouns/professions.yml
 "Существительные -> Жилье": ./data/nouns/accommodation.yml
+"Существительные -> Здоровье": ./data/nouns/health.yml

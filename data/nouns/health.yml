@@ -1,0 +1,12 @@
+# Здоровье
+- {p: die, w: Gesundheit, t: здоровье}
+- {p: das, w: Schreibwarengeschaeft, t: Магазин канцтоваров}
+- {p: der, w: Tropfen, t: капля, pl: '='}
+- {p: der, w: Schmerz, t: боль, pl: '-en'}
+- {p: der, w: Magen, t: желудок, pl: '='}
+- {p: das, w: Magengeschwür, t: язва желудка, pl: '-e'}
+- {p: das, w: Blut, t: кровь}
+- {p: die, w: Grippe, t: грипп}
+- {p: das, w: Fieber, t: повышенная температура}
+- {p: der, w: Durfall, t: понос, pl: "..fälle"}
+- {p: die, w: Sprechstunde, t: прием}

@@ -26,6 +26,7 @@ class AnswerGenerator
     @rules["Существительные -> Отдых"] = nouns_rule
     @rules["Существительные -> Профессии"] = nouns_rule
     @rules["Существительные -> Жилье"] = nouns_rule
+    @rules["Существительные -> Здоровье"] = nouns_rule
   end
 
   def base_rule
