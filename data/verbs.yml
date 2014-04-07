@@ -3,32 +3,32 @@
 - {w: schneiden, t: резать, p: s, p3: schneidet}
 - {w: braten, t: жарить, p: s, p3: braet}
 - {w: backen, t: печь, p: s, p3: baeckt}
-- {w: erzaehlen, t: рассказывать, p: w}
+- {w: erzaehlen, t: рассказывать, p: w, pf: erzaehlt, aux: haben}
 - {w: sitzen, t: сидеть, p: s, p3: sitzt}
 - {w: geben, t: давать, p: s, p3: gibt}
 - {w: nehmen, t: брать, p: s, p3: nimmt}
-- {w: bleiben, t: оставаться, p: s, p3: bleibt}
+- {w: bleiben, t: оставаться, p: s, p3: bleibt, aux: sein}
 - {w: funktionieren, t: работать(для электроники), p: w}
 - {w: kosten, t: стоить, p: w}
 - {w: kochen, t: варить, p: w}
-- {w: brauchen, t: нуждаться, p: w}
+- {w: brauchen, t: нуждаться, p: w, pf: gebraucht, aux: haben}
 - {w: suchen, t: искать, p: w}
-- {w: verstehen, t: понимать, p: s, p3: steht}
+- {w: verstehen, t: понимать, p: s, p3: steht, pf: verstanden, aux: haben}
 - {w: kennen, t: знать(людей или наверняка), p: s, p3: kennt}
 - {w: wissen, t: знать(условие или вопрос), p: s, p3: weiss}
 - {w: moegen, t: нравиться, p: s, p3: mag}
-- {w: besuchen, t: посещать, p: w}
-- {w: werden, t: становиться, p: s, p3: wird}
+- {w: besuchen, t: посещать, p: w, pf: besucht, aux: haben}
+- {w: werden, t: становиться, p: s, p3: wird, aux: sein}
 - {w: warten, t: ждать, p: w}
 - {w: studieren, t: изучать в университете, p: w}
 - {w: schreiben, t: "сочинять, писать", p: s, p3: schreibt}
-- {w: beschreiben, t: описывать, p: s, p3: schreibt}
+- {w: beschreiben, t: описывать, p: s, p3: schreibt, pf: beschrieben, aux: haben}
 - {w: reisen, t: путешествовать, p: w}
 - {w: meinen, t: иметь ввиду, p: w}
-- {w: fragen, t: спрашивать, p: w}
+- {w: fragen, t: спрашивать, p: w, pf: gefragt, aux: haben}
 - {w: buchstabieren, t: произосить по буквам, p: w}
 - {w: sprechen, t: говорить, p: s, p3: spricht}
-- {w: sein, t: быть, p: s, p3: ist}
+- {w: sein, t: быть, p: s, p3: ist, aux: sein}
 - {w: haben, t: иметь, p: s, p3: hat}
 - {w: notieren, t: записывать, p: w}
 - {w: hoeren, t: слушать, p: w}
@@ -40,13 +40,13 @@
 - {w: oeffnen, t: открывать, p: w}
 - {w: konjugieren, t: спрягать, p: w}
 - {w: wiederholen, t: повторять, p: w}
-- {w: fahren, t: ехать, p: s, p3: faehrt}
+- {w: fahren, t: ехать, p: s, p3: faehrt, pf: gefahren, aux: sein}
 - {w: halten, t: держать, p: s, p3: haelt}
 - {w: heben, t: поднимать, p: s, p3: hebt}
 - {w: sagen, t: сказать, p: w}
 - {w: liegen, t: "располагаться, находиться", p: s, p3: liegt}
 - {w: leben, t: жить, p: w}
-- {w: stehen, t: стоять, p: s, p3: steht}
+- {w: stehen, t: стоять, p: s, p3: steht, pf: gestanden, aux: sein}
 - {w: wollen, t: хотеть(want), p: s, p3: will}
 - {w: moechten, t: хотеть(would like), p: w}
 - {w: zeigen, t: показывать, p: w}
@@ -60,7 +60,7 @@
 - {w: spielen, t: играть, p: w}
 - {w: lesen, t: читать, p: s, p3: liest}
 - {w: laufen, t: бежать, p: s, p3: laeuft}
-- {w: arbeiten, t: работать, p: w}
+- {w: arbeiten, t: работать, p: w, pf: gearbeitet, aux: haben}
 - {w: legen, t: ложить, p: w}
 - {w: verkaufen, t: продавать, p: w}
 - {w: kaufen, t: покупать, p: w}
@@ -68,29 +68,30 @@
 - {w: duerfen, t: "мочь(may)", p: s, p3: darf}
 - {w: muessen, t: "быть должным(must)", p: s, p3: muss}
 - {w: sollen, t: "быть должным(have to)", p: s, p3: soll}
-- {w: essen, t: есть, p: s, p3: isst}
+- {w: essen, t: есть, p: s, p3: isst, pf: gegessen, aux: haben}
 - {w: trinken, t: пить, p: s, p3: trinkt}
-- {w: bekommen, t: "получать, приобретать", p: s, p3: kommt}
-- {w: antworten, t: отвечать, p: w}
-- {w: bezahlen, t: платить, p: w}
+- {w: bekommen, t: "получать, приобретать", p: s, p3: kommt, pf: bekommen, aux: haben}
+- {w: antworten, t: отвечать, p: w, pf: geantwortet, aux: haben}
+- {w: beantworten, t: "отвечать на", p: w, pf: beantwortet, aux: haben}
+- {w: bezahlen, t: платить, p: w, pf: bezahlt, aux: haben}
 - {w: schmecken, t: пробовать на вкус, p: w}
 - {w: rechnen, t: вычислять, p: w}
 - {w: ueberpruefen, t: проверять, p: w}
 - {w: wecken, t: будить, p: w}
 - {w: schicken, t: "посылать, отправлять", p: w}
 - {w: besorgen, t: "заботиться, присматривать; раздобыть(достать)", p: w}
-- {w: bringen, t: приносить, p: s, p3: bringt}
+- {w: bringen, t: приносить, p: s, p3: bringt, pf: gebracht, aux: haben}
 - {w: verbinden, t: "связывать, соединять", p: w}
 - {w: lassen, t: позволять, p: s, p3: laesst}
 - {w: ueben, t: тренироваться, p: w}
 - {w: tragen, t: "переносить, нести", p: s, p3: traegt}
-- {w: einkaufen, t: закупаться, p: w}
+- {w: einkaufen, t: закупаться, p: w, pf: eingekauft, aux: haben}
 - {w: beachten, t: обращать внимание, p: w}
 - {w: bieten, t: предлагать, p: s, p3: bietet}
 - {w: glauben, t: думать, p: w}
 - {w: erkennen, t: "узнавать, распознавать", p: s, p3: erkennt}
-- {w: bestellen, t: заказывать, p: w}
-- {w: entscheiden, t: "решать(вопрос, проблему)", p: w}
+- {w: bestellen, t: заказывать, p: w, pf: bestellt, aux: haben}
+- {w: entscheiden, t: "решать(вопрос, проблему)", p: w, pf: entschieden, aux: haben}
 - {w: korrigieren, t: "исправлять, корретировать", p: w}
 - {w: spuelen, t: "полоскать, мыть", p: w}
 - {w: stimmen, t: голосовать, p: w}
@@ -102,33 +103,33 @@
 - {w: tanzen, t: танцевать, p: w} #?
 - {w: schlafen, t: спать, p: s, p3: schläft}
 - {w: tauschen, t: "менять, обменивать", p: w} #?
-- {w: frühstücken, t: завтракать, p: w} #?
-- {w: aufstehen, t: вставать, p: s, p3: steht}
-- {w: fernsehen, t: смотреть телевизор, p: s, p3: sieht}
+- {w: frühstücken, t: завтракать, p: w, pf: gefrühstückt, aux: haben}
+- {w: aufstehen, t: вставать, p: s, p3: steht, pf: aufgestanden, aux: sein}
+- {w: fernsehen, t: смотреть телевизор, p: s, p3: sieht, pf: ferngesehen, aux: haben}
 - {w: bedienen, t: обслуживать, p: w} #?
 - {w: kontrollieren, t: "контролировать, проверять", p: w} #?
 - {w: massieren, t: массажировать, p: w} #?
 - {w: rauchen, t: "чадить, курить", p: w} #
 - {w: eintreten, t: "входить, вступать; начинаться, наступать", p: s, p3: tritt}
-- {w: ausgeben, t: "расходовать, тратить", p: s, p3: gibt}
+- {w: ausgeben, t: "расходовать, тратить", p: s, p3: gibt, pf: ausgegeben, aux: haben}
 - {w: mitbringen, t: приносить с собой, p: s, p3: bringt}
-- {w: duschen, t: принимать душ, p: w} #?
+- {w: duschen, t: принимать душ, p: w, pf: geduscht, aux: haben}
 - {w: stoeren, t: "мешать, беспокоить", p: w} #?
-- {w: fotografieren, t: фотографировать, p: w}
+- {w: fotografieren, t: фотографировать, p: w, pf: fotografiert, aux: haben}
 - {w: "surfen[sɜːrfən]", t: заниматься сёрфингом, p: w}
 - {w: zeichnen, t: "рисовать, чертить, подписываться", p: w}
 - {w: holen, t: нести, p: w}
 - {w: abholen, t: забрать, p: w}
 - {w: abheben, t: отделять, p: s, p3: hebt}
 - {w: fangen, t: ловить, p: s, p3: fängt}
-- {w: anfangen, t: начинать, p: s, p3: fängt}
-- {w: anrufen, t: "вызывать, звонить", p: w}
-- {w: aufhören, t: останавливать, p: w}
+- {w: anfangen, t: начинать, p: s, p3: fängt, pf: angefangen, aux: haben}
+- {w: anrufen, t: "вызывать, звонить", p: w, pf: angerufen, aux: haben}
+- {w: aufhören, t: прекращать, p: w, pf: aufgehört, aux: haben} #?
 - {w: ausgehen, t: выходить, p: s, p3: geht}
-- {w: aussehen, t: выглядеть, p: s, p3: sieht}
+- {w: aussehen, t: выглядеть, p: s, p3: sieht, pf: ausgesehen, aux: haben}
 - {w: beibringen, t: обучать, p: s, p3: bringt}
 - {w: beitreten, t: присоединяться, p: s, p3: tritt }
-- {w: einschlafen, t: засыпать, p: s, p3: schläft}
+- {w: einschlafen, t: засыпать, p: s, p3: schläft, pf: eingeschlafen, aux: sein}
 - {w: fortgehen, t: "уходить, идти вперед", p: s, p3: geht}
 - {w: fortsetzen, t: продолжать, p: w}
 - {w: herkommen, t: приходить сюда, p: s, p3: kommt}
@@ -136,7 +137,7 @@
 - {w: hinfahren, t: поехать туда, p: s, p3: faehrt}
 - {w: hinstellen, t: поставить туда, p: w}
 - {w: losfahren, t: отъезжать, p: s, p3: faehrt}
-- {w: loswerden, t: "избавляться, освобождаться", p: s, p3: wird}
+- {w: loswerden, t: "избавляться, освобождаться", p: s, p3: wird, aux: sein}
 - {w: mitnehmen, t: "брать с собой", p: s, p3: nimmt}
 - {w: denken, t: "думать, мыслить", p: s, p3: denkt}
 - {w: nachdenken, t: "размышлять, задумываться", p: s, p3: denkt}
@@ -159,16 +160,16 @@
 - {w: singen, t: петь, p: w} #?
 - {w: gefallen, t: "нравиться, быть по вкусу", p: s, p3: gefällt}
 - {w: traeumen, t: "мечтать, видеть во сне", p: w}
-- {w: aufraeumen, t: убирать, p: w}
+- {w: aufraeumen, t: убирать, p: w, pf: aufgeraeumt, aux: haben}
 - {w: aufschreiben, t: записывать, p: s, p3: schreibt}
 - {w: sich treffen, t: встретиться, p: s, p3: trifft}
 - {w: messen, t: измерять, p: s, p3: mist}
 - {w: gucken, t: "глядеть, смотреть на что то", p: w }
 - {w: vergessen, t: забывать, p: s, p3: vergisst}
-- {w: einladen, t: приглашать, p: s, p3: einlädt}
-- {w: lossein, t: "происходить, случаться"}
+- {w: einladen, t: приглашать, p: s, p3: einlädt, pf: eingeladen, aux: haben}
+- {w: lossein, t: "происходить, случаться", aux: sein}
 - {w: vorlesen, t: читать в слух, p: s, p3: liest}
-- {w: feiern, t: праздновать, p: w}
+- {w: feiern, t: праздновать, p: w, pf: gefeiert, aux: haben}
 - {w: vorschlagen, t: предлагать, p: schlägt}
 - {w: umziehen, t: переезжать, p: s, p3: zeucht}
 - {w: sich befinden, t: находиться, p: s, p3: findet}
@@ -179,13 +180,13 @@
 - {w: beantragen, t: заказывать новый, p: w}
 - {w: reichen, t: "быть достаточным, хватать", p: w}
 - {w: schauen, t: "смотреть, глядеть", p: w}
-- {w: bedeuten, t: "значить(не одушевленное)", p: w}
+- {w: bedeuten, t: "значить(не одушевленное)", p: w, pf: bedeutet, aux: haben}
 - {w: verbieten, t: запрещать, p: s, p3: verbietet}
 - {w: helfen, t: помогать, p: s, p3: hilft}
 - {w: betragen, t: составлять, p: s, p3: betraegt}
 - {w: anmachen, t: включать(приборы), p: w}
 - {w: ausmachen, t: выключать(приборы), p: w}
-- {w: aufmachen, t: открывать, p: w}
+- {w: aufmachen, t: открывать, p: w, pf: aufgemacht, aux: haben} #?
 - {w: zumachen, t: закрывать, p: w}
 - {w: kuessen sich, t: целоваться, p: w}
 - {w: fuettern, t: кормить, p: w}
@@ -197,3 +198,10 @@
 - {w: klingeln, t: звонить, p: w}
 - {w: erkälten, t: простужаться, p: w}
 - {w: untersuchen, t: исследовать, p: w}
+- {w: passieren, t: "случаться, происходить", p: w, pf: passiert, aux: sein}
+- {w: geschehen, t: "происходить, случаться, совершаться", p: s, p3: geschieht, pf: geschehen, aux: sein}
+- {w: begegnen, t: встречать, p: w, pf: begegnet, aux: sein}
+- {w: baden, t: "купать, мыть", p: w, pf: gebadet, aux: haben}
+- {w: bauen, t: строить, p: w, pf: gebaut, aux: haben}
+- {w: diskutieren, t: дискутировать, p: w, pf: diskutiert, aux: haben}
+- {w: finden, t: "находить, отыскивать", p: s, p3: findet, pf: gefunden, aux: haben }
