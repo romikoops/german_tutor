@@ -53,3 +53,5 @@
 - {p: die, w: Erlaubnis, t: разрешение}
 - {p: der, w: Schornstein, t: дымовая труба}
 - {p: der, w: Platz, t: "место, площадка", pl: Plätze}
+- {p: das, w: Fernsehrerät, t: "телевизор", pl: "-e" }
+- {p: der, w: Fernseher, t: "телевизор, телезритель" }
