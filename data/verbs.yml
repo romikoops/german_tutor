@@ -44,9 +44,11 @@
 - {w: halten, t: держать, p: s, p3: haelt}
 - {w: heben, t: поднимать, p: s, p3: hebt}
 - {w: sagen, t: сказать, p: w}
-- {w: liegen, t: "располагаться, находиться", p: s, p3: liegt}
+- {w: legen, t: ложить, p: w}
+- {w: liegen, t: "лежать-располагаться, находиться", p: s, p3: liegt}
 - {w: leben, t: жить, p: w}
 - {w: stehen, t: стоять, p: s, p3: steht, pf: gestanden, aux: sein}
+- {w: stellen, t: ставить, p: w}
 - {w: wollen, t: хотеть(want), p: s, p3: will}
 - {w: moechten, t: хотеть(would like), p: w}
 - {w: zeigen, t: показывать, p: w}
@@ -61,7 +63,6 @@
 - {w: lesen, t: читать, p: s, p3: liest}
 - {w: laufen, t: бежать, p: s, p3: laeuft}
 - {w: arbeiten, t: работать, p: w, pf: gearbeitet, aux: haben}
-- {w: legen, t: ложить, p: w}
 - {w: verkaufen, t: продавать, p: w}
 - {w: kaufen, t: покупать, p: w}
 - {w: kommen, t: прибывать, p: s, p3: kommt}
@@ -205,3 +206,4 @@
 - {w: bauen, t: строить, p: w, pf: gebaut, aux: haben}
 - {w: diskutieren, t: дискутировать, p: w, pf: diskutiert, aux: haben}
 - {w: finden, t: "находить, отыскивать", p: s, p3: findet, pf: gefunden, aux: haben }
+- {w: hängen, t: "вешать/висеть", p: w}
