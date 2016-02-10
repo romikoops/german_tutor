@@ -207,3 +207,4 @@
 - {w: diskutieren, t: дискутировать, p: w, pf: diskutiert, aux: haben}
 - {w: finden, t: "находить, отыскивать", p: s, p3: findet, pf: gefunden, aux: haben }
 - {w: hängen, t: "вешать/висеть", p: w}
+- {w: verstecken, t: "прятать, скрывать", p: s, p3: versteckt, aux; haben }
